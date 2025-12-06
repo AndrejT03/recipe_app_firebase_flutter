@@ -1,16 +1,22 @@
-# recipe_app
+# Лабораториска вежба 3 - Мобилни информациски системи
 
-Third Lab For MIS
+## Андреј Трајковски 223255
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Почетен екран со новите копчиња
+<img src="images/Home_screen.png" alt="Home Screen" width="400" />
 
-A few resources to get you started if this is your first Flutter project:
+## Екран со омилени јадења
+<img src="images/Favorites.png" alt="Favorites Screen" width="400" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Екран за Профил
+<img src="images/Profile.png" alt="Profile Screen" width="400" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Login екран
+<img src="images/Login.png" alt="Login Screen" width="400" />
+
+## Register екран
+<img src="images/Register.png" alt="Register Screen" width="400" />
+
+## Линк до видео од апликацијата
+[Видео - Демо](https://limewire.com/d/SEq7E#nEGHhtfziD)

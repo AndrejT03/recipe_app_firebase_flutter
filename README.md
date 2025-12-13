@@ -19,4 +19,4 @@
 <img src="images/Register.png" alt="Register Screen" width="400" />
 
 ## Линк до видео од апликацијата
-[Видео - Демо](https://limewire.com/d/SEq7E#nEGHhtfziD)
+[Видео - Демо](https://limewire.com/d/8Eiy6#RXkpH1ChSk)
